@@ -1,0 +1,6 @@
+name = "Gensys"
+uuid = "3bfd283c-222d-50db-bf8d-7546439b0362"
+
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
